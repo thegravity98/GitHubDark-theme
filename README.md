@@ -10,4 +10,4 @@ Note: If you download custom fonts, make sure you select "Install for all users"
 More about configuring settings visit [VS Code](https://code.visualstudio.com/docs/getstarted/settings)
 
 <h5>ScreenShot</h5>
-![screenshot](https://github.com/thegravity98/GitHubDark-theme/blob/d9dd7a3ad7403e7dc0a9c3979c8869cad9584590/example.png?raw=true)
+<img src="https://github.com/thegravity98/GitHubDark-theme/blob/d9dd7a3ad7403e7dc0a9c3979c8869cad9584590/example.png?raw=true">
