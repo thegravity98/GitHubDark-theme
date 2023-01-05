@@ -1,0 +1,24 @@
+{
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.iconTheme": "material-icon-theme", // I am using material icon theme plugin, you can remove this line. 
+    "terminal.integrated.fontFamily": "Consolas", //terminal only supports monospace fonts. 
+    "terminal.integrated.letterSpacing": 1,
+    "editor.fontFamily": "Lexend Light", //Download it from Google fonts. Note: Install for all users. Link in readme.
+    "editor.fontSize": 14.7,
+    "editor.letterSpacing": 0.5,
+    "editor.lineHeight": 22,
+    "workbench.colorCustomizations": 
+    {
+        "editor.background": "#1F2428", //Match color with primary (left) sidebar panel
+        "editor.lineHighlightBackground": "#15181b", //to increases focus of current line
+        "editor.lineHighlightBorder": "#15181b"
+    // "editor.selectionBackground": "#11151a",
+    // "editor.selectionHighlightBackground": "#11151a"
+    }
+    // "editor.tokenColorCustomizations": 
+    //{
+    //     "strings": "#a65c9c",
+    //     "comments": "#539b35",  
+    // },
+    
+}
